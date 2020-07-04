@@ -16,6 +16,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"create dev branch");
         // feature branch commit
         NSLog(@"feature commit 1st");
+        // master commit
+        NSLog(@"master commit 1st");
     }
     return 0;
 }
