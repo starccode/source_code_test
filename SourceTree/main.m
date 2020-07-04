@@ -10,8 +10,10 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
+        // sourceTree init
         NSLog(@"Hello, World!");
+        // sourceTree branch creat
+        NSLog(@"create dev branch");
     }
     return 0;
 }
