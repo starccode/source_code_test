@@ -14,6 +14,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Hello, World!");
         // sourceTree branch creat
         NSLog(@"create dev branch");
+        // feature branch commit
+        NSLog(@"feature commit 1st");
     }
     return 0;
 }
