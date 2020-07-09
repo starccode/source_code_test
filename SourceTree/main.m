@@ -22,6 +22,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"feature commit 2nd");
         // master commit
         NSLog(@"master commit 2nd");
+        // master commit remote
+        NSLog(@"master commit remote");
     }
     return 0;
 }
