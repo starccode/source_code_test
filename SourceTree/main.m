@@ -20,6 +20,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"master commit 1st");
         // feature branch commit
         NSLog(@"feature commit 2nd");
+        // master commit
+        NSLog(@"master commit 2nd");
     }
     return 0;
 }
